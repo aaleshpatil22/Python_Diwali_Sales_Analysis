@@ -1,0 +1,6 @@
+------------Data Analysis on e-commerce sales data------------------------------
+
+Load e-commerce sales data from mysql database.
+perform data cleaning, manupulation and EDA process on e-commerce sales data by using pandas, matplotlib and seaborn libraries.
+Analysed e-commerce sales data and created an interacted dashboard by using Power BI.
+
